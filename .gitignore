@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.synctex.gz
+*.pdf
+template/
+__pycache__
+output
