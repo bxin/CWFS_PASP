@@ -1,5 +1,6 @@
 *.aux
 *.log
+*.bbl
 *.synctex.gz
 *.pdf
 template/
